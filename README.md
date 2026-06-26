@@ -35,7 +35,7 @@
 
 ## How to Run
 * Clone the Repository
-- "git clone https://github.com/your-username/vehicle-management-system.git"
+- "git clone https://github.com/sansreebrama33-wq/vehicle-management-system.git"
 * Move into the project folder
 - "cd vehicle-management-system"
 * Run the program
