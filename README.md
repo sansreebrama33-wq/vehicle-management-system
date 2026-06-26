@@ -50,7 +50,7 @@
 - [Customer panel](customer-panel.png)
 * Rented Vehicle
 - [Rented vehicle](rented-vehicle.png)
-*Returned Vehicle
+* Returned Vehicle
 - [Returned vehicle](returned-vehicle.png)
 
 ## Conclusion
