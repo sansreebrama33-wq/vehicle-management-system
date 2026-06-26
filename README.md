@@ -43,15 +43,15 @@
 
 ## Screenshots
 * Main menu
-! [Main menu](screenshots/main-panel.png)
+! [Main menu](screenshot/main-panel.png)
 * Admin Panel
-! [Admin panel](screenshots/admin-panel.png)
+! [Admin panel](screenshot/admin-panel.png)
 * Customer Panel
-! [Customer panel](screenshots/customer-panel.png)
+! [Customer panel](screenshot/customer-panel.png)
 * Rented Vehicle
-! [Rented vehicle](screenshots/rented-vehicle.png)
+! [Rented vehicle](screenshot/rented-vehicle.png)
 * Returned Vehicle
-! [Returned vehicle](screenshots/returned-vehicle.png)
+! [Returned vehicle](screenshot/returned-vehicle.png)
 
 ## Conclusion
    This project demonstrates a simple Vehicle Management System built using Python and OOP concepts. It helped in
